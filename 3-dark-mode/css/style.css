@@ -1,0 +1,35 @@
+img{
+  max-width: 100%; /* para que no se salgan*/
+}
+
+body {
+  font-family: Arial, Helvetica;
+}
+
+
+.cabezera {
+  background-color: lightseagreen;
+  height: 3rem; /*40px*/
+}
+
+.cabezera div {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3rem;
+  
+}
+.contenedor {
+  width: 80%;
+  margin: 0 auto; /*centrar*/
+}
+
+.botonDark {
+  background-color: black;
+}
+
+p.texto {
+  color: green;
+  font-weight: bold;
+
+}

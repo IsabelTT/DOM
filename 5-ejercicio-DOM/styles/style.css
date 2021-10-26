@@ -1,0 +1,10 @@
+body {
+  background-color: #4e00e0;
+  background-image: url("https://www.transparenttextures.com/patterns/circles.png");
+  color: white;
+}
+
+#nombre::before {
+  content: 'sdljgh';
+  display: block;
+}
